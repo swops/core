@@ -1,6 +1,6 @@
 {
     "name": "swops/core",
-    "version": "0.0.1"
+    "version": "0.0.1",
     "description": "Core project",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
